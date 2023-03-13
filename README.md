@@ -1,3 +1,4 @@
+LOCAL
 # merge-and-conflicts
 
 This is the challenge Merge & Conflicts after the lecture of the quest.
